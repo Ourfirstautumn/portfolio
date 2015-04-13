@@ -1,6 +1,6 @@
 body {
 background-image: url("backporthome.jpg");
 background-color: #FFFFFF;
-background-size: auto 768px;
+background-size: contain;
 background-repeat: no-repeat;
 			}
