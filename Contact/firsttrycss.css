@@ -77,4 +77,5 @@ background-image: url('twitter.jpg'), url('facebook.jpg'), url('instagram.jpg');
 height: 60px;
 width: 180px;
 background-position: center;
+z-index: 1000;
 }
