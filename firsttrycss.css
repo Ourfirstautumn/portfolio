@@ -29,7 +29,7 @@
 }
 
 #contact {
-  background-image: url("http://i975.photobucket.com/albums/ae238/lepancakefairy/contact_zpsi7nrjtqy.jpg");
+  background-image: url('http://i975.photobucket.com/albums/ae238/lepancakefairy/contact_zpsi7nrjtqy.jpg');
   height: 40px;
   width: 102px;
   display: inline-block;
@@ -46,8 +46,15 @@ right: 50%;
 }
 
 #face {
-background-image: url("aboutpageface.jpg");
+background-image: url('aboutpageface.jpg');
 position: fixed;
 top: 50%;
 left: 10%;
+}
+
+#cornerleft { 
+    background-image: url('pageleftcorner.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left top; 
 }
