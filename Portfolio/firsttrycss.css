@@ -1,47 +1,20 @@
-#home {
-  background-image: url("http://i975.photobucket.com/albums/ae238/lepancakefairy/home_zps63czdpua.png");
-  height: 40px;
-  width: 72px;
-  display: inline-block;
-  position: absolute;
-  top: 10%;
-  left: 40%;
-}
-
-#about {
-  background-image: url("http://i975.photobucket.com/albums/ae238/lepancakefairy/about_zpsiohyqttn.jpg");
-  height: 40px;
-  width: 84px;
-  display: inline-block;
-  position: fixed;
-  top: 10%;
-  left: 45.5%;
-  
-}
-
-#portfolio {
-  background-image: url("http://i975.photobucket.com/albums/ae238/lepancakefairy/portfo_zpsjuhy9gfz.png");
-  height: 40px;
-  width: 121px;
-  display: inline-block;
-    position: fixed;
-  top: 10%;
-  left: 51.5%;
-}
-
-#contact {
-  background-image: url("http://i975.photobucket.com/albums/ae238/lepancakefairy/contact_zpsi7nrjtqy.jpg");
-  height: 40px;
-  width: 102px;
-  display: inline-block;
-    position: fixed;
-  top: 10%;
-  left: 60.2%;
-}
-
-#homeimg {
-position: fixed;
-top: 15%;
-left: 50%;
-
-}]
+<!DOCTYPE html>
+  <html>
+    <head>
+        <title>About Tara</title>
+		<link rel="stylesheet" type="text/css" href="firsttrycss.css">
+    </head>
+   <body>
+<a href="http://ourfirstautumn.github.io/portfolio/"><div id="home"></div></a>
+<a href="http://ourfirstautumn.github.io/portfolio/About/"><div id="about"></div></a>
+<a href="http://ourfirstautumn.github.io/portfolio/Portfolio/"><div id="portfolio"></div></a>
+<a href="http://ourfirstautumn.github.io/portfolio/Contact/"><div id="contact"></div></a>
+	 
+<p id="face"></p>
+<p id="cornerleft"></p>
+<p id="cornerright"></p>
+<p id="wowactualtext">Hello! My name is Tara Eavy and I’m an Environmental Studies and Sustainability student at Michigan State University. I’m passionate about caring for and prolonging the lifespan of our mother Earth and hope to work to increase awareness about sustainability in the everyday life. I am also currently studying Russian in hopes of working in the vast wilderness on the Eastern side of the country. The culture, literature, and people in Russia keep me passionate about my dreams to someday live there.</p>
+<p id="wowactualtext2">My skills include HTML and CSS, as well as working with programs such as Adobe Photoshop Elements, CS5, and most Microsoft programs. Design, while not my forte, is something I’m comfortable dabbling in, as well as a hobby that I like to play with. Typographic art is my guilty pleasure.
+</p>
+   </body>
+  </html>
