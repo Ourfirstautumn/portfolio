@@ -43,6 +43,8 @@ background-image: url("homepageimg.jpg");
 position: relative;
 top: 15%;
 left: 30%;
+height: 200px;
+width: 200px;
 }
 
 #face {
