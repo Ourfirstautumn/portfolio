@@ -3,7 +3,7 @@
   height: 40px;
   width: 72px;
   display: inline-block;
-  position: absolute;
+  position: fixed;
   top: 10%;
   left: 40%;
 }
@@ -58,9 +58,9 @@ background-position: 10% 60%;
 }
 
 #contactb {
-  background-image: url('contactback.jpg);
+  background-image: url('contactback.jpg');
   height: 948px;
   width: 561px;
   background-position: left top;
-    background-repeat: no-repeat;
+  background-repeat: no-repeat;
 }
