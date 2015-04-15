@@ -63,4 +63,5 @@ background-position: 10% 60%;
   width: 561px;
   background-position: left top;
   background-repeat: no-repeat;
+  position: fixed;
 }
