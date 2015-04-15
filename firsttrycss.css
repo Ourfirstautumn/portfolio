@@ -39,7 +39,10 @@
 }
 
 #homeimg {
-background-image: url("homepageimg");
+background-image: url("homepageimg.jpg");
+position: relative;
+top: 15%;
+left: 30%;
 }
 
 #face {
