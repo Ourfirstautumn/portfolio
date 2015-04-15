@@ -53,6 +53,17 @@
   left: 38%;
 }
 
+#nameimg {
+  background-image: url('name.jpg');
+  height: 540px;
+  width: 237;
+  background-position: left;
+  background-repeat: no-repeat;
+  position: fixed;
+  top: 17%;
+  left: 38%;
+}
+
 #face {
 background-image: url('aboutpageface.jpg');
 background-position: 10% 60%;
