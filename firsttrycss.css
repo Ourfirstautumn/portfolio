@@ -40,8 +40,8 @@
 
 #homeimg {
 background-image: url("homepageimg.jpg");
-position: relative;
-top: 15%;
+position: absolute;
+top: 20%;
 left: 30%;
 height: 200px;
 width: 200px;
