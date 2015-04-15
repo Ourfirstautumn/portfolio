@@ -4,7 +4,7 @@
   width: 72px;
   display: inline-block;
   position: absolute;
-  top: 15%;
+  top: 10%;
   left: 40%;
 }
 
@@ -14,7 +14,7 @@
   width: 84px;
   display: inline-block;
   position: fixed;
-  top: 15%;
+  top: 10%;
   left: 45.5%;
   
 }
@@ -25,7 +25,7 @@
   width: 121px;
   display: inline-block;
     position: fixed;
-  top: 15%;
+  top: 10%;
   left: 51.5%;
 }
 
@@ -35,6 +35,6 @@
   width: 102px;
   display: inline-block;
     position: fixed;
-  top: 15%;
+  top: 10%;
   left: 60.2%;
 }
