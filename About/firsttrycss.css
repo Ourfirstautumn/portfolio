@@ -101,6 +101,17 @@ z-index: 1000;
 position: fixed;
 }
 
+#wowactualtext2 {
+text-align: justify;
+font-family: georgia;
+font-size: 10px;
+top: 23%;
+left: 40%;
+right: 30%;
+z-index: 1000;
+position: fixed;
+}
+
 #contactb {
   background-image: url('contactback.jpg');
   height: 1020px;
