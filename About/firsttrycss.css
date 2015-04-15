@@ -3,9 +3,10 @@
   height: 40px;
   width: 72px;
   display: inline-block;
-  position: absolute;
+  position: fixed;
   top: 10%;
   left: 40%;
+  z-index: 1000; 
 }
 
 #about {
@@ -16,6 +17,7 @@
   position: fixed;
   top: 10%;
   left: 45.5%;
+  z-index: 1000; 
 }
 
 #portfolio {
@@ -26,6 +28,7 @@
     position: fixed;
   top: 10%;
   left: 51.5%;
+  z-index: 1000; 
 }
 
 #contact {
@@ -36,13 +39,28 @@
     position: fixed;
   top: 10%;
   left: 60.2%;
+  z-index: 1000; 
 }
 
 #homeimg {
-height: 200px;
-width: 200px;
-top: 20%;
-right: 50%;
+  background-image: url('backimg.jpg');
+  height: 444px;
+  width: 431px;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: fixed;
+  top: 17%;
+  left: 38%;
+}
+
+#nameimg {
+  background-image: url('name.jpg');
+  height: 540px;
+  width: 237px;
+  background-repeat: no-repeat;
+  position: fixed;
+  left: 23%;
+  z-index: 1000;
 }
 
 #face {
@@ -52,7 +70,53 @@ background-position: 10% 60%;
 
 #cornerleft { 
     background-image: url('pageleftcorner.jpg');
+	height: 548px;
+	width: 458px;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: left top; 
+}
+
+#contactb {
+  background-image: url('contactback.jpg');
+  height: 1020px;
+  width: 1020px;
+  background-position: left top;
+  background-repeat: no-repeat;
+  position: fixed;
+  top: -29%;
+  left: -1%;
+}
+
+#twitter {
+background-image: url('twitter.jpg');
+height: 60px;
+width: 60px;
+background-repeat: no-repeat;
+position: fixed;
+top: 40%;
+left: 45%;
+z-index: 1000;
+}
+
+#facebook {
+background-image: url('facebook.jpg');
+height: 60px;
+width: 60px;
+background-repeat: no-repeat;
+position: fixed;
+top: 40%;
+left: 52%;
+z-index: 1000;
+}
+
+#instagram {
+background-image: url('instagram.jpg');
+height: 60px;
+width: 60px;
+background-repeat: no-repeat;
+position: fixed;
+top: 40%;
+left: 59%;
+z-index: 1000;
 }
