@@ -41,10 +41,10 @@
 #homeimg {
 background-image: url("http://s975.photobucket.com/user/lepancakefairy/media/homepageimg_zpsqve3erwd.jpg.html");
 position: fixed;
-top: 15%;
-left: 40%;
-height: 600;
-width: 500;
+top: 20%;
+right: 50%;
+height: 100;
+width: 100;
 }
 
 #face {
