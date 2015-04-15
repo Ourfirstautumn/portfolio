@@ -39,11 +39,6 @@
 }
 
 #homeimg {
-background-image: url("homepageimg.jpg");
-position: fixed;
-top: 20%;
-display: block;
-right: 35%;
 height: 200px;
 width: 200px;
 }
