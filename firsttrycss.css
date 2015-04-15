@@ -45,3 +45,9 @@ top: 15%;
 left: 50%;
 
 }]
+
+#face {
+position: fixed;
+top: 50%;
+left: 10%;
+}
