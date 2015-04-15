@@ -82,3 +82,25 @@ top: 45%;
 left: 45%;
 z-index: 1000;
 }
+
+#facebook {
+background-image: url('facebook.jpg');
+height: 60px;
+width: 60px;
+background-repeat: no-repeat;
+position: fixed;
+top: 45%;
+left: 50%;
+z-index: 1000;
+}
+
+#instagram {
+background-image: url('instagram.jpg');
+height: 60px;
+width: 60px;
+background-repeat: no-repeat;
+position: fixed;
+top: 45%;
+left: 55%;
+z-index: 1000;
+}
