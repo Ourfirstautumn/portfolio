@@ -64,4 +64,6 @@ background-position: 10% 60%;
   background-position: left top;
   background-repeat: no-repeat;
   position: fixed;
+  top: -5%;
+  left: -5%;
 }
