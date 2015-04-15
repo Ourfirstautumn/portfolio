@@ -39,17 +39,17 @@
 }
 
 #homeimg {
-background-image: url("http://s975.photobucket.com/user/lepancakefairy/media/homepageimg_zpsqve3erwd.jpg.html");
+background-image: url("homepageimg");
 position: fixed;
 top: 20%;
 right: 50%;
-height: 100;
-width: 100;
+height: 200;
+width: 200;
 }
 
 #face {
 background-image: url("aboutpageface.jpg");
-position: fixed;
+position: relative;
 top: 50%;
 left: 10%;
 }
