@@ -95,7 +95,8 @@ text-align: justify;
 font-family: georgia;
 font-size: 10px;
 top: 10%;
-left: 50%;
+left: 35%;
+right: 35%;
 z-index: 1000;
 position: fixed;
 }
