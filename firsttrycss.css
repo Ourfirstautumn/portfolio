@@ -40,11 +40,6 @@
 
 #homeimg {
 background-image: url("homepageimg");
-position: fixed;
-top: 20%;
-right: 50%;
-height: 200;
-width: 200;
 }
 
 #face {
