@@ -17,6 +17,7 @@
   position: fixed;
   top: 10%;
   left: 45.5%;
+  z-index: 1000; 
 }
 
 #portfolio {
@@ -27,6 +28,7 @@
     position: fixed;
   top: 10%;
   left: 51.5%;
+  z-index: 1000; 
 }
 
 #contact {
@@ -37,6 +39,7 @@
     position: fixed;
   top: 10%;
   left: 60.2%;
+  z-index: 1000; 
 }
 
 #homeimg {
