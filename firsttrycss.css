@@ -40,7 +40,7 @@
 
 #homeimg {
 background-image: url("homepageimg.jpg");
-position: absolute;
+position: fixed;
 top: 20%;
 left: 30%;
 height: 200px;
