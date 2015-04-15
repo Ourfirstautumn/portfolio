@@ -88,6 +88,11 @@ background-position: 10% 60%;
 	right: -5%;
 }
 
+#wowactualtext {
+text-align: justify;
+font-family: georgia;
+}
+
 #contactb {
   background-image: url('contactback.jpg');
   height: 1020px;
