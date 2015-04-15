@@ -73,9 +73,11 @@ background-position: 10% 60%;
 }
 
 #contacticons {
-background-image: url('twitter.jpg'), url('facebook.jpg'), url('instagram.jpg');
+background-image: url('twitter.jpg');
 height: 60px;
-width: 180px;
+width: 60px;
 background-position: center;
+background-repeat: no-repeat;
+position: fixed;
 z-index: 1000;
 }
