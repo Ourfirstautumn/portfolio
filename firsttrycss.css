@@ -42,14 +42,15 @@
 background-image: url("homepageimg.jpg");
 position: fixed;
 top: 20%;
-left: 30%;
+display: block;
+right: 35%;
 height: 200px;
 width: 200px;
 }
 
 #face {
 background-image: url("aboutpageface.jpg");
-position: relative;
+position: fixed;
 top: 50%;
 left: 10%;
 }
