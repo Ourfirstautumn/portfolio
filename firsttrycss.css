@@ -56,7 +56,7 @@
 #nameimg {
   background-image: url('name.jpg');
   height: 540px;
-  width: 237;
+  width: 237px;
   background-repeat: no-repeat;
   position: fixed;
   z-index: 1000;
