@@ -99,7 +99,7 @@ background-image: url('aboutpageface.jpg');
 #wowactualtext {
 text-align: justify;
 font-family: georgia;
-font-size: 12px;
+font-size: 13px;
 top: 20%;
 left: 39%;
 right: 31%;
@@ -110,7 +110,7 @@ position: fixed;
 #wowactualtext2 {
 text-align: justify;
 font-family: georgia;
-font-size: 12px;
+font-size: 13px;
 top: 30%;
 left: 39%;
 right: 31%;
@@ -129,7 +129,16 @@ position: fixed;
 	left: -1%;
 }
 
-#resume
+#resume {
+    background-image: url('resumeicon.jpg');
+	height: 100px;
+	width: 100px;
+    background-repeat: no-repeat;
+    position: fixed;
+	z-index: 1000%;
+	bottom: 50;
+	left: 40%;
+}
 
 #panic
 
