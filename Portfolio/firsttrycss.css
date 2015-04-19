@@ -140,6 +140,17 @@ position: fixed;
 	left: 25%;
 }
 
+#oneway {
+    background-image: url('onewayicon.jpg');
+	height: 100px;
+	width: 100px;
+    background-repeat: no-repeat;
+    position: fixed;
+	z-index: 1000;
+	bottom: 55%;
+	left: 35%;
+}
+
 #panic    {
 background-image: url('panicicon.jpg');
 	height: 100px;
