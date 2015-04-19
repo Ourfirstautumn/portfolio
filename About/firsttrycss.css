@@ -99,7 +99,7 @@ background-image: url('aboutpageface.jpg');
 #wowactualtext {
 text-align: justify;
 font-family: georgia;
-font-size: 13px;
+font-size: 10px;
 top: 20%;
 left: 39%;
 right: 31%;
@@ -110,7 +110,7 @@ position: fixed;
 #wowactualtext2 {
 text-align: justify;
 font-family: georgia;
-font-size: 13px;
+font-size: 10px;
 top: 30%;
 left: 39%;
 right: 31%;
