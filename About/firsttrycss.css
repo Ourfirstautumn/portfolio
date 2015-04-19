@@ -70,7 +70,7 @@ background-image: url('aboutpageface.jpg');
   background-repeat: no-repeat;
   position: fixed;
   bottom: -1%;
-  left: 40%;
+  left: 30%;
   z-index: 1000;
 }
 
@@ -99,7 +99,7 @@ background-image: url('aboutpageface.jpg');
 #wowactualtext {
 text-align: justify;
 font-family: georgia;
-font-size: 10px;
+font-size: 13px;
 top: 20%;
 left: 39%;
 right: 31%;
@@ -110,7 +110,7 @@ position: fixed;
 #wowactualtext2 {
 text-align: justify;
 font-family: georgia;
-font-size: 10px;
+font-size: 13px;
 top: 30%;
 left: 39%;
 right: 31%;
@@ -124,10 +124,54 @@ position: fixed;
 	width: 695px;
     background-repeat: no-repeat;
     position: fixed;
-	z-index: -1%;
-	bottom: -1%;
+	z-index: -1;
+	bottom: -3%;
 	left: -1%;
 }
+
+#resume {
+    background-image: url('resumeicon.jpg');
+	height: 100px;
+	width: 100px;
+    background-repeat: no-repeat;
+    position: fixed;
+	z-index: 1000;
+	bottom: 55%;
+	left: 25%;
+}
+
+#oneway {
+    background-image: url('onewayicon.jpg');
+	height: 100px;
+	width: 100px;
+    background-repeat: no-repeat;
+    position: fixed;
+	z-index: 1000;
+	bottom: 55%;
+	left: 35%;
+}
+
+#panic    {
+background-image: url('panicicon.jpg');
+	height: 100px;
+	width: 100px;
+    background-repeat: no-repeat;
+    position: fixed;
+	z-index: 1000;
+	bottom: 30%;
+	left: 25%;
+	}
+
+#pink{
+background-image: url('pinkicon.jpg');
+	height: 100px;
+	width: 100px;
+    background-repeat: no-repeat;
+    position: fixed;
+	z-index: 1000;
+	bottom: 30%;
+	left: 35%;
+	}
 
 #contactb {
   background-image: url('contactback.jpg');
