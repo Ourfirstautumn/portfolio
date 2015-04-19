@@ -69,7 +69,7 @@ background-image: url('aboutpageface.jpg');
   width: 242px;
   background-repeat: no-repeat;
   position: fixed;
-  bottom: -1%;
+  bottom: 5%;
   left: 25%;
   z-index: 1000;
 }
@@ -111,7 +111,7 @@ position: fixed;
 text-align: justify;
 font-family: georgia;
 font-size: 11px;
-top: 35%;
+top: 33%;
 left: 39%;
 right: 31%;
 z-index: 1000;
