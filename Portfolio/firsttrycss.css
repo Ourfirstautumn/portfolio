@@ -136,13 +136,31 @@ position: fixed;
     background-repeat: no-repeat;
     position: fixed;
 	z-index: 1000;
-	bottom: 53%;
+	bottom: 55%;
 	left: 25%;
 }
 
-#panic
+#panic    {
+background-image: url('panicicon.jpg');
+	height: 100px;
+	width: 100px;
+    background-repeat: no-repeat;
+    position: fixed;
+	z-index: 1000;
+	bottom: 35%;
+	left: 25%;
+	}
 
-#pink
+#pink{
+background-image: url('pinkicon.jpg');
+	height: 100px;
+	width: 100px;
+    background-repeat: no-repeat;
+    position: fixed;
+	z-index: 1000;
+	bottom: 35%;
+	left: 35%;
+	}
 
 #contactb {
   background-image: url('contactback.jpg');
