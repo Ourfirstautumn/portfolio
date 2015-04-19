@@ -147,7 +147,7 @@ background-image: url('panicicon.jpg');
     background-repeat: no-repeat;
     position: fixed;
 	z-index: 1000;
-	bottom: 35%;
+	bottom: 25%;
 	left: 25%;
 	}
 
@@ -158,8 +158,8 @@ background-image: url('pinkicon.jpg');
     background-repeat: no-repeat;
     position: fixed;
 	z-index: 1000;
-	bottom: 35%;
-	left: 35%;
+	bottom: 25%;
+	left: 40%;
 	}
 
 #contactb {
