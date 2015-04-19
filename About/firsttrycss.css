@@ -104,7 +104,7 @@ top: 20%;
 left: 39%;
 right: 31%;
 z-index: 1000;
-position: relative;
+position: fixed;
 }
 
 #wowactualtext2 {
@@ -115,7 +115,7 @@ top: 30%;
 left: 39%;
 right: 31%;
 z-index: 1000;
-position: relative;
+position: fixed;
 }
 
 #backport {
