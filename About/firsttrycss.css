@@ -118,6 +118,28 @@ z-index: 1000;
 position: fixed;
 }
 
+#wowactualtext3 {
+text-align: justify;
+font-family: georgia;
+font-size: 11px;
+top: 41%;
+left: 43%;
+right: 31%;
+z-index: 1000;
+position: fixed;
+}
+
+#wowactualtext3 {
+text-align: justify;
+font-family: georgia;
+font-size: 11px;
+top: 44%;
+left: 43%;
+right: 31%;
+z-index: 1000;
+position: fixed;
+}
+
 #backport {
     background-image: url('backpile.jpg');
 	height: 483px;
