@@ -69,7 +69,7 @@ background-image: url('facecolor.jpg');
   width: 242px;
   background-repeat: no-repeat;
   position: fixed;
-  bottom: 10%;
+  bottom: 9%;
   left: 25%;
   z-index: 1000;
 }
