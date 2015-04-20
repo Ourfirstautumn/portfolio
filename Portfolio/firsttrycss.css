@@ -64,13 +64,13 @@
 }
 
 #face {
-background-image: url('aboutpageface.jpg');
+background-image: url('facecolor.jpg');
   height: 315px;
   width: 242px;
   background-repeat: no-repeat;
   position: fixed;
-  bottom: -1%;
-  left: 40%;
+  bottom: 9%;
+  left: 25%;
   z-index: 1000;
 }
 
@@ -99,7 +99,7 @@ background-image: url('aboutpageface.jpg');
 #wowactualtext {
 text-align: justify;
 font-family: georgia;
-font-size: 13px;
+font-size: 11px;
 top: 20%;
 left: 39%;
 right: 31%;
@@ -110,9 +110,31 @@ position: fixed;
 #wowactualtext2 {
 text-align: justify;
 font-family: georgia;
-font-size: 13px;
-top: 30%;
+font-size: 11px;
+top: 33%;
 left: 39%;
+right: 31%;
+z-index: 1000;
+position: fixed;
+}
+
+#wowactualtext3 {
+text-align: justify;
+font-family: georgia;
+font-size: 11px;
+top: 41%;
+left: 45%;
+right: 31%;
+z-index: 1000;
+position: fixed;
+}
+
+#wowactualtext4 {
+text-align: justify;
+font-family: georgia;
+font-size: 11px;
+top: 56%;
+left: 45%;
 right: 31%;
 z-index: 1000;
 position: fixed;
@@ -173,6 +195,17 @@ background-image: url('pinkicon.jpg');
 	left: 35%;
 	}
 
+	#original{
+background-image: url('originalicon.jpg');
+	height: 100px;
+	width: 100px;
+    background-repeat: no-repeat;
+    position: fixed;
+	z-index: 1000;
+	bottom: 30%;
+	left: 45%;
+	}
+	
 #contactb {
   background-image: url('contactback.jpg');
   height: 1020px;
