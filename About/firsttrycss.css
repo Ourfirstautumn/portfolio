@@ -64,12 +64,12 @@
 }
 
 #face {
-background-image: url('aboutpageface.jpg');
+background-image: url('facecolor.jpg');
   height: 315px;
   width: 242px;
   background-repeat: no-repeat;
   position: fixed;
-  bottom: 5%;
+  bottom: 10%;
   left: 25%;
   z-index: 1000;
 }
