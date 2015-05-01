@@ -174,7 +174,7 @@ position: fixed;
 }
 
 #pholder1 {
-    background-image: url('blackicon.jpg');
+    background-image: url('reflectionfinal.jpg');
 	height: 100px;
 	width: 100px;
     background-repeat: no-repeat;
@@ -185,7 +185,7 @@ position: fixed;
 }
 
 #pholder2 {
-    background-image: url('blackicon.jpg');
+    background-image: url('p1.jpg');
 	height: 100px;
 	width: 100px;
     background-repeat: no-repeat;
@@ -196,7 +196,7 @@ position: fixed;
 }
 
 #pholder3 {
-    background-image: url('blackicon.jpg');
+    background-image: url('fliers.jpg');
 	height: 100px;
 	width: 100px;
     background-repeat: no-repeat;
@@ -207,7 +207,7 @@ position: fixed;
 }
 
 #pholder4 {
-    background-image: url('blackicon.jpg');
+    background-image: url('nextsteps.jpg');
 	height: 100px;
 	width: 100px;
     background-repeat: no-repeat;
@@ -251,7 +251,7 @@ background-image: url('originalicon.jpg');
 	}
 	
 	#pholder5 {
-    background-image: url('blackicon.jpg');
+    background-image: url('logo.jpg');
 	height: 100px;
 	width: 100px;
     background-repeat: no-repeat;
